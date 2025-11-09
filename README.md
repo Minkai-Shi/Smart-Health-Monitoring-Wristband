@@ -115,8 +115,6 @@ Special thanks to **EEPW** and **DigiKey** for hardware support.
 
 ## 🎥 Project Demonstration Video / 项目演示视频
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fb3Psc4_ksg" title="DIY Smart Health Monitoring Wristband – YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard‑write; encrypted‑media; gyroscope; picture‑in‑picture" allowfullscreen></iframe>
-
 > 📺 [YouTube Video Link / 视频链接](https://youtu.be/Fb3Psc4_ksg)
 
 ---
